@@ -1,18 +1,17 @@
 # ☁️ AWS Cloud Practitioner – Complete Learning Repository
 
+<p align="center">
+
 ![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-![GitHub Repo stars](https://img.shields.io/github/stars/sarib300/Aws-Course-Resources?style=for-the-badge)
-
-![GitHub forks](https://img.shields.io/github/forks/sarib300/Aws-Course-Resources?style=for-the-badge)
-
-![GitHub issues](https://img.shields.io/github/issues/sarib300/Aws-Course-Resources?style=for-the-badge)
-
-![GitHub contributors](https://img.shields.io/github/contributors/sarib300/Aws-Course-Resources?style=for-the-badge)
-
-![GitHub last commit](https://img.shields.io/github/last-commit/sarib300/Aws-Course-Resources?style=for-the-badge)
-
+![Stars](https://img.shields.io/github/stars/sarib300/Aws-Course-Resources?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/sarib300/Aws-Course-Resources?style=for-the-badge)
+![Contributors](https://img.shields.io/github/contributors/sarib300/Aws-Course-Resources?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/sarib300/Aws-Course-Resources?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/sarib300/Aws-Course-Resources?style=for-the-badge)
 ![License](https://img.shields.io/github/license/sarib300/Aws-Course-Resources?style=for-the-badge)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sarib300.Aws-Course-Resources)
+
+</p>
 
 A **structured learning repository** for students preparing for the **AWS Certified Cloud Practitioner** certification.
 
